@@ -1,0 +1,22 @@
+version dev_2011-07-19
+
+This is my current version above dev_2011-06-20
+
+changes from 2011-06-20 to 2011-07-09:
+
+    * the "act_1 ..." screen now based on Text, not an image any more
+    * special screens, which indicates the chapter or place received good looking effects
+    * Save/load menu were merged again and it received some functional and good looking improvements
+    * improvements on button look
+    * add a click-to-continue arrow
+    * 'Auto mode' and 'Skip mode' were taken out for now
+    * add ability to choose theme (but needs restart)
+    * improvements in configuration menu like dividing settings into different areas (Game, Video, Sound, Theme)
+    * add an android text file (now you can play CG on smartphone, works fine, except it doesn't know special effect commands yet)
+    * many little bug fixes and code improvements
+
+You just have to replace all the files you can find in this archive, or add the necessary files from the dev_2011-06-20 release.
+
+Dankeschön,
+Thank you,
+どもありがとう　ございます

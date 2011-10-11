@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+SOFTWARE PROVIDERS
+
+Audacity Sound Editor
+http://audacity.sourceforge.net/
+
+FileZilla FTP Manager
+http://filezilla-project.org/
+
+GIMP Image Editor
+http://www.gimp.org/
+
+Google Docs
+http://docs.google.com/
+
+Inkscape Vector Graphics Editor
+http://inkscape.org/
+
+LibreOffice
+http://www.libreoffice.org/
+
+Mozilla Firefox Web Browser
+http://www.mozilla.com/en-US/firefox/upgrade.html
+
+MyPaint
+http://mypaint.intilinux.com/
+
+Python Language
+http://www.python.org/
+
+Ren'Py Visual Novel Engine
+http://www.renpy.org/wiki/renpy/Home_Page
+
+Ubuntu Operating System
+http://www.ubuntu.com/
+
+VLC Multimedia Player
+http://www.videolan.org/vlc/
+
+---
+
+SPECIAL FONT PROVIDERS
+
+DejaVu Fonts
+http://dejavu-fonts.org/wiki/index.php?title=Main_Page
+
+---
+
+ADDITIONAL ART PRODUCERS
+
+"1st floor hallway in Rippon Lea house" - Citizen D
+http://commons.wikimedia.org/wiki/File:Rippon_Lea_hallway.jpg
+
+"A classroom in a Japanese high school" - strngwrldfrwl
+http://commons.wikimedia.org/wiki/File:Classroom_843785861.jpg
+
+"Albany Academy" - UpstateNYer
+http://commons.wikimedia.org/wiki/File:Albany_Academy.jpg
+
+"Angel Wings" - OCAL
+http://www.clker.com/clipart-10905.html
+
+"Ayam Goeng Kalasan" - Midori
+http://commons.wikimedia.org/wiki/File:Ayam_goreng_kalasan.JPG
+
+"Awal Bros hospital at Batam island, Indonesia" - Masgatotkaca
+http://commons.wikimedia.org/wiki/File:Awal_Bros_Hospital_at_Batam_Island,_Indonesia.JPG
+
+"Bihun Goreng" - Midori
+http://commons.wikimedia.org/wiki/File:Bihun_goreng.JPG
+
+"Brodick Castle, Isle of Arran" - Alan Brown
+http://commons.wikimedia.org/wiki/File:Brodick_Castle,_Isle_of_Arran_-_geograph.org.uk_-_59317.jpg
+
+"Cafeteria PTSB" - Far east6589
+http://commons.wikimedia.org/wiki/File:Cafeteria_PTSB.jpg
+
+"Chaise Georges Jacob" - David Monniaux
+http://commons.wikimedia.org/wiki/File:Chaise_DSC08795.jpg
+
+"Inside Hedrick Summit, Dorm hall at UCLA" - Alton
+http://commons.wikimedia.org/wiki/File:Hedrick_Summit,_UCLA.JPG
+
+"Lots of garbage at Essent Milieu" - Fruggo
+http://commons.wikimedia.org/wiki/File:Vuilnis_bij_Essent_Milieu.jpg
+
+"Mahakam River at Samarinda" - Hidayat008
+http://commons.wikimedia.org/wiki/File:Mahakam_at_Samarinda.jpg
+
+"Museum Langes Tannen Uetersen" - Huhu Uet
+http://commons.wikimedia.org/wiki/File:Langes_Tannen_Schlafzimmer_01.jpg
+
+"Nasi Goreng" - Kobako
+http://commons.wikimedia.org/wiki/File:Nasi-Goreng.jpg
+
+"Nasi Goreng Istimewa" - Sakurai Midori
+http://en.wikipedia.org/wiki/File:Nasi_goreng.jpg
+
+"Ndhu Dormitory" - padai
+http://commons.wikimedia.org/wiki/File:Ndhu-dormitory.jpg
+
+"PLM Cafeteria, Pamantasan ng Lungsod ng Maynila at Intramuros"
+http://commons.wikimedia.org/wiki/File:PLM_Cafeteria.JPG
+
+"Ryoan Ji, Kyoto zen garden" - Cquest
+http://commons.wikimedia.org/wiki/File:Kyoto-Ryoan-Ji_MG_4512.jpg
+
+"Sky Dscf1869"
+http://commons.wikimedia.org/wiki/File:Dscf1869.jpg
+
+"Sunset" - Adam Ziaja
+http://commons.wikimedia.org/wiki/File:2006-09-15_18-47-19_ziaja.jpg
+
+"Swiss Airbus A340-313X HB-JMH" - Hansueli Krapf
+http://commons.wikimedia.org/wiki/File:Airliners_28.07.2009_09-56-18.2009_09-56-18.JPG
+
+"Very red clouds at sun rise" - Simon Eugster
+http://commons.wikimedia.org/wiki/File:Bright_red_clouds_at_sun_rise.JPG
+
+"Wooden stairwell in Bristol Central Library" - Mattbuck
+http://commons.wikimedia.org/wiki/File:Bristol_Central_Library_stairwell.jpg
+
+"Work in the corridor" - Pamela Adam
+http://commons.wikimedia.org/wiki/File:Hospitals_corridor.jpg
+
+---
+
+SOUND PRODUCERS
+
+"Air raid alarm" - Huang Sir
+http://commons.wikimedia.org/wiki/File:Air_raid_alarm_in_China.ogg
+
+"Glockenmotiv „Salve Regina“ auf a'" - Andreasdziewior
+http://commons.wikimedia.org/wiki/File:Salve_Regina.ogg
+
+Public Domain Sounds
+http://www.pdsounds.org/
+
+Soungle
+http://www.soungle.com/
+
+---
+
+MUSIC PRODUCERS
+
+"After Winter Dreams" - Click
+http://ccmixter.org/files/click/5734
+
+"Handel's Messiah - 44 Hallelujah. Performed by: MIT Concert Choir" - Georg Friedrich Händel
+http://commons.wikimedia.org/wiki/File:Handel_-_messiah_-_44_hallelujah.ogg
+
+"For the First Time" [album: "The Tender One"] - Dale Rucklos
+http://www.jamendo.com/en/track/359945
+
+"Foxtrot" [album: "Candles"] - Hemiola
+http://www.jamendo.com/en/track/310606
+
+"Friday" [album: "For You"] - Alexandr Filippov
+http://www.jamendo.com/en/track/413140
+
+"L'arrivée" [album: "La plage de Blâne-est"] - Ehma
+http://www.jamendo.com/en/track/586
+
+"Reversive" [album: "Candles"] - Hemiola
+http://www.jamendo.com/en/track/310605
+
+"Rola Z" [album: "Nocturnal Overtures"] - Renich
+http://www.jamendo.com/en/track/95713
+
+"Street Organ" [album: "Another Planet"] - Hemiola
+http://www.jamendo.com/en/track/476358
+
+"To be happy" [album: "Nocturnal Overtures"] - Renich
+http://www.jamendo.com/en/track/95765
+
+"Together" [album: "Balaton"] - St Adam
+http://www.jamendo.com/en/track/418884
+
+"Un petit poème" [album: "Piano Poetry"] - Lena Selyanina 
+http://www.jamendo.com/en/track/341396
+
+"Yogoreta Kagami - MIRROR -" [album: "Compositions 1"] - Quietness47
+http://www.jamendo.com/en/track/138960
+
+"Klein-Jiga" [album: "Scotland Yard"] - Olga Scotland
+http://www.jamendo.com/en/track/21492
+
+"Kissing Garden" [album: "Scotland Yard"] - Olga Scotland
+http://www.jamendo.com/en/track/21495
+
+"Koshka-Garmoshka" [album: "Scotland Yard"] - Olga Scotland
+http://www.jamendo.com/en/track/21494
+
+"Medieval Adventure Game" [album: "Scotland Yard"] - Olga Scotland
+http://www.jamendo.com/en/track/21497
+
+"Unikum" [album: "Scotland Yard"] - Olga Scotland
+http://www.jamendo.com/en/track/21502
+
+---
+
+OPENING THEME
+"Coils" [album: "Datenbergbau"]
+Autorotation / Bleep
+http://www.jamendo.com/en/track/380561
+http://www.autorotation.org/cmsms/
+
+ENDING THEME
+"Thank You" [album: "Renovations"]
+Jamie Rumley
+http://www.jamendo.com/en/track/383163
+http://www.jamierumley.com/
+
+---
+
+
+
+SPECIAL THANKS TO:
+
+Our great and supportive Friends and Family
+PyTom and the Ren'Py Team
+The dedicated Free and Open Source Software Commmunity
+Other great free artists at Wikimedia Commons, Jamendo, 
+DeviantArt, MiniTokyo, pdsounds, etc.
+Creative Commons for helping us share and collaborate.
+
+And of course, you!  :)

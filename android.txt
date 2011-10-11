@@ -1,0 +1,4 @@
+title=CGdev_now
+author=we
+api=1
+orientation=landscape

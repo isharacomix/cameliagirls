@@ -1,0 +1,4 @@
+
+The @CameliaGirls Ren'Py source files are licensed under the Creative Commons Attribution-Share Alike 3.0 License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
+
+Please also refer to credits.txt for the individual licensing for external media files such as images and music.  These are all either licensed under Creative Commons Attribution-Share Alike, Creative Commons Attribution, or are public domain.
